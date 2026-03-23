@@ -1,6 +1,6 @@
 {
-    "display_name_english": "Portuguese",
-    "display_name_native": "Português",
+    "display_name_english": "Brazilian Portuguese",
+    "display_name_native": "Português Brasileiro",
     "contributors": [
         {
             "username": "Pefiravi",
@@ -16,8 +16,8 @@
             "username": "BxssDxrk",
             "account-id": 4216331,
             "icon-id": 133,
-            "primary-col": 12,
-            "secondary-col": 12,
+            "primary-col": 15,
+            "secondary-col": 15,
             "glow-enabled": true,
             "glow-col": 12,
             "death-effect-id": 12
@@ -234,7 +234,7 @@
             "safe-mode/change-text": "Mudar Texto",
             "noclip": "Noclip",
             "noclip/tint-colour": "Cor da Tintura:",
-            "noclip/tint-opacity": "Opacidaded da Tintura:",
+            "noclip/tint-opacity": "Opacidade da Tintura:",
             "noclip/tint-on-death": "Tingir ao Morrer",
             "show-touches": "Mostrar Toques",
             "show-touches/trail-colour": "Cor da Trail:",
@@ -289,8 +289,8 @@
             "trans-bg/colour": "Cor:",
             "char-limit": "Limite de Caractéres",
             "char-filter": "Filtro de Caractéres",
-            "slider-limit": "Ignorar limite do controle deslizante",
-            "slider-limit/reset-audio-variables": "Redefinir controles deslizantes de áudio",
+            "slider-limit": "Ignorar Limite do Slider",
+            "slider-limit/reset-audio-variables": "Redefinir Sliders de Áudio",
             "practice-bypass": "Ignorar Música de Practice",
             "pitch-shifter": "Mudança de tom",
             "speedhack/gameplay": "Speedhack no Gameplay",
